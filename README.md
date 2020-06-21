@@ -1,0 +1,2 @@
+# new-entry
+Another repository.
